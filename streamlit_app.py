@@ -34,7 +34,7 @@ hr { border-color:var(--line); }
 
 pg = st.navigation({
     "Portfolio": [
-        st.Page("pages/home.py", title="Home", icon="🏠")
+        st.Page("pages/home.py", title="Home", icon="🏠"),
         st.Page("pages/experience.py", title="Experience", icon="💼"),
         st.Page("pages/ai_lab.py", title="AI Lab", icon="🧪"),
         st.Page("pages/resume.py", title="Resume", icon="📄"),
