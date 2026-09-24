@@ -404,7 +404,7 @@ with e2:
     """,unsafe_allow_html=True)
 
 # ---------- Contact ----------
-st.markdown('<div class="section"><div class="section-label">09 — Contact</div><h2>Let's build something useful.</h2></div>',unsafe_allow_html=True)
+st.markdown("<div class=\"section\"><div class=\"section-label\">09 — Contact</div><h2>Let's build something useful.</h2></div>",unsafe_allow_html=True)
 st.markdown("""
 <div class="card">
 <p class="muted">
